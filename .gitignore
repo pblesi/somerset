@@ -1,0 +1,17 @@
+# ignore all bin directories
+# matches "bin" in any subfolder
+bin/
+
+# ignore all target directories
+target/
+
+# ignore metadata
+.metadata
+
+# ignore all files ending with ~
+*~
+
+# ignore state files associated with the game
+current_game_state.yml
+stats_state.yml
+
