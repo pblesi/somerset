@@ -1,13 +1,13 @@
 somerset
 ========
 
-A (soon-to-be) android version of the popular Some R Set game
+A (soon-to-be) android version of the popular Some R Set game.
 
 
 Game Instructions
 -----------------
 
-Game instructions can be found at 
+Game instructions can be found 
 [here](http://somersetgame.om/double-somerset-rules.html).
 
 
